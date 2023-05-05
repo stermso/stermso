@@ -1,7 +1,7 @@
 <div align="center">
 <!--模块一 : https://github.com/matyo91 | https://codesandbox.io/s/github-profile-2ijk7 -->
 <!--First Module : https://github.com/matyo91 | https://codesandbox.io/s/github-profile-2ijk7-->
-<div><a href="#"><img src="https://cdn.jsdelivr.net/gh/stermso/stermso/assets/welcome.webp" /></a><div>
+<div><a href="#"><img src="https://github.com/stermso/stermso/blob/main/assets/welcome.webp?raw=true" /></a><div>
 <br />
 <!--模块二 : https://shields.io-->
 <!--Second Module : https://shields.io-->
