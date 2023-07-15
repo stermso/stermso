@@ -70,13 +70,13 @@ mindmap
 <p align="right">------------------------------</p>
 <h3>🖽  编程框架  🖽</h3>
 <h3>🖽  Programming Framework  🖽</h3>
-<table>
+<table frame="none">
 <tr>
 <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/stermso/stermso/assets/docker.svg" width="65px" height="65px" /></td></a>
-<td><a href="#"><img src="https://cdn.jsdelivr.net/gh/stermso/stermso/assets/vue.svg" width="60px" height="60px" /></td></a>
+<td><a href="#"><img src="https://cdn.jsdelivr.net/gh/stermso/stermso/assets/vue.svg" width="65px" height="60px" /></td></a>
 <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/stermso/stermso/assets/node.svg" width="95px" height="105px" /></td></a>
 <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/stermso/stermso/assets/react.svg" width="65px" height="65px" /></td></a>
-<td><a href="#"><img src="https://cdn.jsdelivr.net/gh/stermso/stermso/assets/angular.svg" width="55px" height="55px" /></td></a>
+<td><a href="#"><img src="https://cdn.jsdelivr.net/gh/stermso/stermso/assets/angular.svg" width="65px" height="55px" /></td></a>
 </tr>
 </table>
 <br /><br />
