@@ -70,7 +70,7 @@ mindmap
 <p align="right">------------------------------</p>
 <h3>🖽  编程框架  🖽</h3>
 <h3>🖽  Programming Framework  🖽</h3>
-<table frame="none">
+<table>
 <tr>
 <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/stermso/stermso/assets/docker.svg" width="65px" height="65px" /></td></a>
 <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/stermso/stermso/assets/vue.svg" width="65px" height="60px" /></td></a>
